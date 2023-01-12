@@ -1,3 +1,3 @@
 <body>
-    <p> The impasta is sus ඞඞඞඞඞඞඞ </p>
+    The impasta is sus ඞඞඞඞඞඞඞ
 <body/>
